@@ -49,5 +49,5 @@ We expect this test to take around 4 hours, but not significantly more (your tim
 - Your code has tests.
 
 If you come across any questions or anything we didn't cover on this README, feel free to reach out to us and we'll get you an answer as soon as possible.
-If you have any question please contact sebastian.white@websummit.com
+If you have any question please contact person of contact within Web Summit.
 Happy coding!
